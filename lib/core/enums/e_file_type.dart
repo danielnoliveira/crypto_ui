@@ -1,0 +1,1 @@
+enum eFileType { Icon, Image }
